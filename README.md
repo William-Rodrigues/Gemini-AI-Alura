@@ -21,13 +21,13 @@
 # Aula 1 Mergulhando no Gemini, a IA do Google
 
 Assuntos abordados:
-     - Oque é IA?;
-     - Diferenças entre IA Preditiva x IA Generativa;
-     - Oque é LLM?;
-     - Análise de sentimento;
-     - Leitura da foto de uma carta com o Gemini;
-     - Diferença entre o Gemini e AI Studio;
-     - Descrição de imagem com o AI Studio.
+- Oque é IA?
+- Diferenças entre IA Preditiva x IA Generativa
+- Oque é LLM?
+- Análise de sentimento
+- Leitura da foto de uma carta com o Gemini
+- Diferença entre o Gemini e AI Studio
+- Descrição de imagem com o Google AI Studio
 
 Desafios da aula desta aula:
 
@@ -49,7 +49,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
 ## 🧠 Prompts
 
-<p align="left"><img src="./assets/gemini-icon.png" width="45"/>Gemini AI:</p>
+<p align="left"><img src="./assets/gemini-icon.png" width="25"/> Gemini AI:</p>
 
 |   Ação   | prompt |
 |---|---|
@@ -95,7 +95,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Gemini Advanced é uma ferramenta poderosa que pode transformar a forma como você trabalha como Analista de Qualidade de Software. Com seus recursos avançados de IA, automação e análise, você pode aumentar sua produtividade, melhorar a qualidade do software e se destacar em sua carreira. Se você está buscando excelência em QA e deseja se tornar um especialista requisitado, o Gemini Advanced é um investimento que vale a pena. |
 
-<p align="left"><img src="./assets/gemini-icon.png" width="25"/>Gemini AI:</p> 
+<p align="left"><img src="./assets/gemini-icon.png" width="25"/> Gemini AI:</p> 
 
 |   Ação   | prompt |
 |---|---|
@@ -128,7 +128,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Hotel Monaco Seattle possui avaliações em sua maioria positivas, destacando-se a localização, limpeza, equipe e decoração. Alguns hóspedes reclamaram do preço do estacionamento, barulho em alguns quartos e     custo-benefício.
 
-<p align="left"><img src="./assets/gemini-icon.png" width="50"/>AI Studio:</p>
+<p align="left"><img src="./assets/ai-studio-icon.png" width="25"/> AI Studio:</p>
 
 |   Ação   | prompt |
 |---|---|
