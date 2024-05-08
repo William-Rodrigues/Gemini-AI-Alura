@@ -1,10 +1,9 @@
 <p align="center">
-    <img width="200" src=".github/assets/gemini.png">
+    <img width="200" src="./assets/gemini.png">
 </p>
 
 
 <p align="center">
-   <a href="https://www.alura.com.br/"><img width="100" src="https://i.ytimg.com/vi/d1zJ5LPnAcg/maxresdefault.jpg" alt="Alura-logo"></a>
    <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
 </p>
 
@@ -50,14 +49,14 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
 Gemini AI：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Atue como um especialista em inteligência artificial faça uma tabela comparando as funcionalidades do Gemini e Gemini advanced e me explique em formato de texto tecnicamente as vantagens em assinar o Gemini Advanced e como isso pode me auxiliar no meu trabalho como analista de qualidade de software e na minha trajetória em busca de me tornar um especialista em qualidade de software.  |
+|   Ação   | prompt |
+| 1 - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você. | Atue como um especialista em inteligência artificial faça uma tabela comparando as funcionalidades do Gemini e Gemini advanced e me explique em formato de texto tecnicamente as vantagens em assinar o Gemini Advanced e como isso pode me auxiliar no meu trabalho como analista de qualidade de software e na minha trajetória em busca de me tornar um especialista em qualidade de software.|
 
-|  Título  | Comparação Detalhada entre Gemini e Gemini Advanced para Analistas de Qualidade de Software                                                        |
-| Conteúdo | Introdução
+## 🤖 Conteúdo
 
-    Como Analista de Qualidade de Software em busca da excelência, você sabe que a inteligência artificial (IA) pode ser um aliado poderoso na sua jornada. As ferramentas Gemini e Gemini Advanced do Google oferecem recursos inovadores para te auxiliar na busca por qualidade impecável.
+    Comparação Detalhada entre Gemini e Gemini Advanced para Analistas de Qualidade de Software                                                        
+
+    Introdução: Como Analista de Qualidade de Software em busca da excelência, você sabe que a inteligência artificial (IA) pode ser um aliado poderoso na sua jornada. As ferramentas Gemini e Gemini Advanced do Google oferecem recursos inovadores para te auxiliar na busca por qualidade impecável.
 
     Tabela Comparativa Detalhada
     | Funcionalidade        | Gemini                                    | Gemini Advanced                                                                  |
@@ -96,10 +95,9 @@ Gemini AI：
 
 Gemini AI：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | prompt |
 
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Análise de sentimento: Tenho 5 avaliações de hotéis. Quero que você analise o sentimento de cada uma delas, e dê uma nota de 1 a 5, sendo que a nota 5 é o sentimento mais positivo e 1 o mais negativo.
+| Tente utilizar a analise de sentimento dos usuários usando a base de dados do Kaggle | Tenho 5 avaliações de hotéis. Quero que você analise o sentimento de cada uma delas, e dê uma nota de 1 a 5, sendo que a nota 5 é o sentimento mais positivo e 1 o mais negativo.
 
     nice hotel expensive parking got good deal stay hotel anniversary, arrived late evening took advice previous reviews did valet parking, check quick easy, little disappointed non-existent view room room clean nice size, bed comfortable woke stiff neck high pillows, not soundproof like heard music room night morning loud bangs doors opening closing hear people talking hallway, maybe just noisy neighbors, aveda bath products nice, did not goldfish stay nice touch taken advantage staying longer, location great walking distance shopping, overall nice experience having pay 40 parking night.
 
@@ -117,10 +115,12 @@ Gemini AI：
 
     -------------------------------------------------
 
-    poor value stayed monaco seattle july, nice hotel priced 100- 150 night not, hotel takes beating quotient, experience simply average, nothing exceptional paying 300+ n't ca n't terribly disappointed, wife stayed nicest suites 200/night felt like overpaying, best advice shop, quality-wise league average marriott nice best western.  |
+    poor value stayed monaco seattle july, nice hotel priced 100- 150 night not, hotel takes beating quotient, experience simply average, nothing exceptional paying 300+ n't ca n't terribly disappointed, wife stayed nicest suites 200/night felt like overpaying, best advice shop, quality-wise league average marriott nice best western.|
 
-    |  Título  |Análise de Sentimento dos Reviews do Hotel Monaco Seattle:                                                        |
-    | Conteúdo | Review 1: 3/5
+## 🤖 Conteúdo
+
+    Análise de Sentimento dos Reviews do Hotel Monaco Seattle:
+    Review 1: 3/5
 
     Sentimento misto: elogia o hotel, localização e limpeza, mas critica o estacionamento caro, barulho no quarto e falta da peixinha dourada.
 
@@ -146,10 +146,14 @@ Gemini AI：
 
 AI Studio：
 
-|  Ação  | prompt                                                                                 |
-| :----: | Analise o meu histórico de navegação e liste os 10 sites que eu mais acessei, o tipo de site ,quanto tempo passei em média neles, e qual tem sido meu foco de estudos na ultima semana: Como parametro passei meu histórico em CSV |
-|  Título  | Análise do Histórico de Navegação:                                                        |
-| Conteúdo | Infelizmente, não consigo analisar o tempo gasto em cada site pois a informação não está disponível no arquivo data(2).xlsx. No entanto, posso fornecer uma lista dos 10 sites mais acessados, seus tipos e insights sobre seu possível foco de estudos na última semana.
+|  Ação  | prompt |
+| 2 - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site | Analise o meu histórico de navegação e liste os 10 sites que eu mais acessei, o tipo de site ,quanto tempo passei em média neles, e qual tem sido meu foco de estudos na ultima semana: Como parametro passei meu histórico em CSV que não foi versionado|
+
+## 🤖 Conteúdo
+
+    Análise do Histórico de Navegação:
+    
+    Infelizmente, não consigo analisar o tempo gasto em cada site pois a informação não está disponível no arquivo data(2).xlsx. No entanto, posso fornecer uma lista dos 10 sites mais acessados, seus tipos e insights sobre seu possível foco de estudos na última semana.
 
     Top 10 Sites Mais Acessados:
 
