@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="./assets/gemini.png">
+    <img width="400" src="./assets/gemini.png">
 </p>
 
 
@@ -27,9 +27,9 @@
 
 Desafios da aula desta aula:
 
-    1 - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você
+     - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você
 
-    2 - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site
+     - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site
 
 Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini e em carreira, busquei primeiro identificar quais as diferenças e funcionalidades a versão paga do Geminini poderiam agregar, e como ela poderia me ajudar em minha jornada para se tornar um Especialista em Qualidade de Software.
 
@@ -50,7 +50,9 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 Gemini AI：
 
 |   Ação   | prompt |
+|---|---|
 | 1 - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você. | Atue como um especialista em inteligência artificial faça uma tabela comparando as funcionalidades do Gemini e Gemini advanced e me explique em formato de texto tecnicamente as vantagens em assinar o Gemini Advanced e como isso pode me auxiliar no meu trabalho como analista de qualidade de software e na minha trajetória em busca de me tornar um especialista em qualidade de software.|
+
 
 ## 🤖 Conteúdo
 
@@ -96,7 +98,7 @@ Gemini AI：
 Gemini AI：
 
 |   Ação   | prompt |
-
+|---|---|
 | Tente utilizar a analise de sentimento dos usuários usando a base de dados do Kaggle | Tenho 5 avaliações de hotéis. Quero que você analise o sentimento de cada uma delas, e dê uma nota de 1 a 5, sendo que a nota 5 é o sentimento mais positivo e 1 o mais negativo.
 
     nice hotel expensive parking got good deal stay hotel anniversary, arrived late evening took advice previous reviews did valet parking, check quick easy, little disappointed non-existent view room room clean nice size, bed comfortable woke stiff neck high pillows, not soundproof like heard music room night morning loud bangs doors opening closing hear people talking hallway, maybe just noisy neighbors, aveda bath products nice, did not goldfish stay nice touch taken advantage staying longer, location great walking distance shopping, overall nice experience having pay 40 parking night.
@@ -146,7 +148,8 @@ Gemini AI：
 
 AI Studio：
 
-|  Ação  | prompt |
+|   Ação   | prompt |
+|---|---|
 | 2 - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site | Analise o meu histórico de navegação e liste os 10 sites que eu mais acessei, o tipo de site ,quanto tempo passei em média neles, e qual tem sido meu foco de estudos na ultima semana: Como parametro passei meu histórico em CSV que não foi versionado|
 
 ## 🤖 Conteúdo
