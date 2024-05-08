@@ -37,10 +37,11 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 - [Gemini](https://gemini.google.com/app) 
 - [AI Studio](https://aistudio.google.com)
 - [Kaggle](https://www.kaggle.com/)
+- [Base de dados]()
 
 ## 🧠 Prompts
 
-<p align="left"><img src="./assets/gemini-icon.png" width="100"/></p> Gemini AI：
+<p align="left"><img src="./assets/gemini-icon.png" width="10"/>Gemini AI:</p>
 
 |   Ação   | prompt |
 |---|---|
@@ -86,20 +87,11 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Gemini Advanced é uma ferramenta poderosa que pode transformar a forma como você trabalha como Analista de Qualidade de Software. Com seus recursos avançados de IA, automação e análise, você pode aumentar sua produtividade, melhorar a qualidade do software e se destacar em sua carreira. Se você está buscando excelência em QA e deseja se tornar um especialista requisitado, o Gemini Advanced é um investimento que vale a pena. |
 
-<p align="left"><img src="./assets/gemini-icon.png" width="100"/></p> Gemini AI：
+<p align="left"><img src="./assets/gemini-icon.png" width="10"/>Gemini AI:</p> 
 
 |   Ação   | prompt |
 |---|---|
-| Tente utilizar a analise de sentimento dos usuários usando a base de dados do Kaggle | Tenho 5 avaliações de hotéis. Quero que você analise o sentimento de cada uma delas, e dê uma nota de 1 a 5, sendo que a nota 5 é o sentimento mais positivo e 1 o mais negativo.
-nice hotel expensive parking got good deal stay hotel anniversary, arrived late evening took advice previous reviews did valet parking, check quick easy, little disappointed non-existent view room room clean nice size, bed comfortable woke stiff neck high pillows, not soundproof like heard music room night morning loud bangs doors opening closing hear people talking hallway, maybe just noisy neighbors, aveda bath products nice, did not goldfish stay nice touch taken advantage staying longer, location great walking distance shopping, overall nice experience having pay 40 parking night.
--------------------------------------------------
-unique, great stay, wonderful time hotel monaco, location excellent short stroll main downtown shopping area, pet friendly room showed no signs animal hair smells, monaco suite sleeping area big striped curtains pulled closed nice touch felt cosy, goldfish named brandi enjoyed, did n't partake free wine coffee/tea service lobby thought great feature, great staff friendly, free wireless internet hotel worked suite 2 laptops, decor lovely eclectic mix pattens color palatte, animal print bathrobes feel like rock stars, nice did n't look like sterile chain hotel hotel personality excellent stay.
--------------------------------------------------
-cozy stay rainy city, husband spent 7 nights monaco early january 2008. business trip chance come ride.we booked monte carlo suite proved comfortable longish stay, room 905 located street building, street noise not problem view interesting rooms building look dank alley midsection large office building, suite comfortable plenty room spread, bathroom attractive squeaky clean small comparison generous proportions sitting sleeping areas, lots comfortable seating options good lighting plenty storage clothing luggage, hotel staff friendly efficient, housekeeping staff did great job pleasant, requests responded quickly.the location quite good, easy walk pike street market seattle art museum notch shopping dining options.a positive experience.
--------------------------------------------------
-excellent stayed hotel monaco past w/e delight, reception staff friendly professional room smart comfortable bed, particularly liked reception small dog received staff guests spoke loved, mild negative distance uphill ppmarket restaurants 1st, overall great experience
--------------------------------------------------
-poor value stayed monaco seattle july, nice hotel priced 100- 150 night not, hotel takes beating quotient, experience simply average, nothing exceptional paying 300+ n't ca n't terribly disappointed, wife stayed nicest suites 200/night felt like overpaying, best advice shop, quality-wise league average marriott nice best western. |
+| Tente utilizar a analise de sentimento dos usuários usando a [base de dados do Kaggle](https://www.kaggle.com/code/thehustler2003/naive-sentiment-classification/input), escolhi 5 valores aleatorios | Tenho 5 avaliações de hotéis. Quero que você analise o sentimento de cada uma delas, e dê uma nota de 1 a 5, sendo que a nota 5 é o sentimento mais positivo e 1 o mais negativo.|
 
 ## 🤖 Conteúdo gerado
 
@@ -128,7 +120,7 @@ poor value stayed monaco seattle july, nice hotel priced 100- 150 night not, hot
 
     O Hotel Monaco Seattle possui avaliações em sua maioria positivas, destacando-se a localização, limpeza, equipe e decoração. Alguns hóspedes reclamaram do preço do estacionamento, barulho em alguns quartos e     custo-benefício.
 
-<p align="left"><img src="./assets/gemini-icon.png" width="100"/></p> AI Studio：
+<p align="left"><img src="./assets/gemini-icon.png" width="10"/>AI Studio:</p>
 
 |   Ação   | prompt |
 |---|---|
