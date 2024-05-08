@@ -18,13 +18,22 @@
 
  > ℹ️ **NOTA:** Este repositório contém desafios propostos na imersão Gemini AI da plataforma [ALURA](https://cursos.alura.com.br/imersao).
 
-# 👨‍💻 Aula 1 Mergulhando no Gemini, a IA do Google
+# Aula 1 Mergulhando no Gemini, a IA do Google
+
+Assuntos abordados:
+     - Oque é IA?;
+     - Diferenças entre IA Preditiva x IA Generativa;
+     - Oque é LLM?;
+     - Análise de sentimento;
+     - Leitura da foto de uma carta com o Gemini;
+     - Diferença entre o Gemini e AI Studio;
+     - Descrição de imagem com o AI Studio.
 
 Desafios da aula desta aula:
 
-     - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você
+     - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 
-     - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site
+     - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site,
 
 Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini e em carreira, busquei primeiro identificar quais as diferenças e funcionalidades a versão paga do Geminini poderiam agregar, e como ela poderia me ajudar em minha jornada para se tornar um Especialista em Qualidade de Software.
 
@@ -37,11 +46,10 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 - [Gemini](https://gemini.google.com/app) 
 - [AI Studio](https://aistudio.google.com)
 - [Kaggle](https://www.kaggle.com/)
-- [Base de dados]()
 
 ## 🧠 Prompts
 
-<p align="left"><img src="./assets/gemini-icon.png" width="10"/>Gemini AI:</p>
+<p align="left"><img src="./assets/gemini-icon.png" width="45"/>Gemini AI:</p>
 
 |   Ação   | prompt |
 |---|---|
@@ -87,7 +95,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Gemini Advanced é uma ferramenta poderosa que pode transformar a forma como você trabalha como Analista de Qualidade de Software. Com seus recursos avançados de IA, automação e análise, você pode aumentar sua produtividade, melhorar a qualidade do software e se destacar em sua carreira. Se você está buscando excelência em QA e deseja se tornar um especialista requisitado, o Gemini Advanced é um investimento que vale a pena. |
 
-<p align="left"><img src="./assets/gemini-icon.png" width="10"/>Gemini AI:</p> 
+<p align="left"><img src="./assets/gemini-icon.png" width="25"/>Gemini AI:</p> 
 
 |   Ação   | prompt |
 |---|---|
@@ -120,7 +128,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Hotel Monaco Seattle possui avaliações em sua maioria positivas, destacando-se a localização, limpeza, equipe e decoração. Alguns hóspedes reclamaram do preço do estacionamento, barulho em alguns quartos e     custo-benefício.
 
-<p align="left"><img src="./assets/gemini-icon.png" width="10"/>AI Studio:</p>
+<p align="left"><img src="./assets/gemini-icon.png" width="50"/>AI Studio:</p>
 
 |   Ação   | prompt |
 |---|---|
