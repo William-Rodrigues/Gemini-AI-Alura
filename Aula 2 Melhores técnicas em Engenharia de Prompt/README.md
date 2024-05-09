@@ -30,27 +30,13 @@ Desafios da aula desta aula:
 
 |   Ação   | prompt |
 |---|---|
-| 1 - Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real | O João tem dificuldades de subir de liga no jogo league of legends, atualmente o João está no  Ferro 4 que é a liga mais baixa do jogo e João pretendia chegar ao Ouro. Mas para atingir esse objetivo eel precisava melhorar suas habilidades e aprender alguns conceitos básicos sobre o jogo como por exemplo:
-
-    - Controle de wave
-    - Aprender matar o minion com ultimo golpe (conhecido como dar last hit)
-    - Se acostumar a olhar o minimapa
-    - Não deixar a ansiedade tomar conta ao ver o inimigos com pouca vida para evitar tomada de decisões ruins, pois pode ser uma armadilha (bait)
-    - Trabalhar em equipe
-    - Fazer itens situacionais de acordo com a composição do inimigo
-    - Tempo de renascimento dos objetivos
-    - Aprender a usar as sinalizações (pings) corretamente
-
-    Agora que o João aprendeu essas coisas, ele finalmente conseguiu chegar a liga desejada, o ouro, agora João tem um novo objetivo, chegar a liga diamante, o que mais o João deve aprender e melhorar para alcançar este novo objetivo:
-
-    - .|
+| 1 - Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real | O João tem dificuldades de subir de liga no jogo league of legends, atualmente o João está no  Ferro 4 que é a liga mais baixa do jogo e João pretendia chegar ao Ouro. Mas para atingir esse objetivo eel precisava melhorar suas habilidades e aprender alguns conceitos básicos sobre o jogo como por exemplo:  - Controle de wave - Aprender matar o minion com ultimo golpe (conhecido como dar last hit) - Se acostumar a olhar o minimapa - Não deixar a ansiedade tomar conta ao ver o inimigos com pouca vida para evitar tomada de decisões ruins, pois pode ser uma armadilha (bait) - Trabalhar em equipe - Fazer itens situacionais de acordo com a composição do inimigo - Tempo de renascimento dos objetivos - Aprender a usar as sinalizações (pings) corretamente. Agora que o João aprendeu essas coisas, ele finalmente conseguiu chegar a liga desejada, o ouro, agora João tem um novo objetivo, chegar a liga diamante, o que mais o João deve aprender e melhorar para alcançar este novo objetivo: - .|
 
 ## 🤖 Conteúdo gerado
 
     Subindo de Ouro para Diamante no League of Legends: O Guia para o João
 
     Parabéns ao João por alcançar o Ouro! Subir de liga no LoL exige dedicação e aprendizado constante, e ele já deu um grande passo. Agora, para chegar ao Diamante, o João precisará dominar novos conceitos e aprimorar suas habilidades:
-
     1. Macro jogo:
 
     Compreensão do mapa: Visualize a movimentação dos oponentes, preveja ganks e rotações, tome decisões estratégicas com base no mapa completo.
@@ -95,9 +81,7 @@ Desafios da aula desta aula:
 
 ## 🤖 Conteúdo gerado
 
-    Título sugerido para a notícia:
-
-PAC-MAN Mega Tunnel Battle: Chomp Champs chega hoje aos consoles e PC, com batalhas online para até 64 jogadores|
+    Título sugerido para a notícia: PAC-MAN Mega Tunnel Battle: Chomp Champs chega hoje aos consoles e PC, com batalhas online para até 64 jogadores|
 
 Título Original: PAC-MAN Mega Tunnel Battle: Chomp Champs é lançado para consoles e PC 
 
@@ -109,6 +93,7 @@ Título Original: PAC-MAN Mega Tunnel Battle: Chomp Champs é lançado para cons
 ## 📚 Materiais
 
 - Imagem da campanha e ícones em `assets`
+- O prompt do desafio 2 completo está em `prompt.txt`
 
 ## 🧙🏾‍♂️ Eterno aprendiz
 

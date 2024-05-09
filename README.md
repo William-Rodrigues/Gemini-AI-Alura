@@ -42,7 +42,7 @@ Desafios da aula desta aula:
 
 ## Aula 2 Melhores técnicas em Engenharia de Prompt:
 
-🚨 [Clique aqui para visualizar o resultado da aula 2.](https:) 
+🚨 [Clique aqui para visualizar o resultado da aula 2.](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%202%20Melhores%20t%C3%A9cnicas%20em%20Engenharia%20de%20Prompt) 
 
 ### Assuntos abordados:
 - Aprender as melhores técnicas de como realizar um prompt;
