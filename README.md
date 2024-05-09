@@ -5,8 +5,6 @@
    <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
 </p>
 
-<br>
-
 # 👨‍💻 Imersão IA 2º edição - Gemini, a IA do Google
 
 <p align="center"><img src="./assets/cover.png" width="500"/></p>
@@ -17,13 +15,15 @@
 
 - <a href="https://www.alura.com.br/imersao-ia-google-gemini"> 📕 Clique aqui para se inscrever</a>
 
-## 💻 Tecnologias e ferramentas utilizadas no projeto
+## 💻 Tecnologias e ferramentas utilizadas no projeto:
 
 - [Gemini](https://gemini.google.com/app) 
 - [AI Studio](https://aistudio.google.com)
 - [Kaggle](https://www.kaggle.com/)
 
-# Aula 1 Mergulhando no Gemini, a IA do Google
+## Aula 1 Mergulhando no Gemini, a IA do Google:
+
+- 🚨 Clique [aqui](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%201%20Mergulhando%20no%20Gemini%2C%20a%20IA%20do%20Google)👈🏾 para visualizar o conteúdo.
 
 Assuntos abordados:
 - Oque é IA?

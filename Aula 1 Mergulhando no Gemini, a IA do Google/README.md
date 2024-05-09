@@ -1,18 +1,16 @@
-<p align="center"> <img width="500" src="./assets/gemini.png"></p>
+<p align="center"> <img width="500" src="./Gemini-AI-Alura/assets/gemini.png"></p>
 <p align="center">
    <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a>
 </p>
 
-<br>
-
  > ℹ️ **NOTA:** Este repositório contém desafios propostos na imersão Gemini AI da plataforma [ALURA](https://cursos.alura.com.br/imersao).
 
-## 📖 Página principal:
+## 📖 Página principal do repositório:
 
 - 🚨 Clique 👉🏾[aqui](https://github.com/William-Rodrigues/Gemini-AI-Alura)👈🏾 para ser redirecionado.
  
 
-# Aula 1 Mergulhando no Gemini, a IA do Google
+## Aula 1 Mergulhando no Gemini, a IA do Google
 
 Assuntos abordados:
 - Oque é IA?
@@ -33,7 +31,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
 ## 🧠 Prompts
 
-<p align="left"><img src="./assets/gemini-icon.png" width="25"/> Gemini AI:</p>
+<p align="left"><img src="./Gemini-AI-Alura/assets/gemini-icon.png" width="25"/> Gemini AI:</p>
 
 |   Ação   | prompt |
 |---|---|
@@ -79,7 +77,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Gemini Advanced é uma ferramenta poderosa que pode transformar a forma como você trabalha como Analista de Qualidade de Software. Com seus recursos avançados de IA, automação e análise, você pode aumentar sua produtividade, melhorar a qualidade do software e se destacar em sua carreira. Se você está buscando excelência em QA e deseja se tornar um especialista requisitado, o Gemini Advanced é um investimento que vale a pena. |
 
-<p align="left"><img src="./assets/gemini-icon.png" width="25"/> Gemini AI:</p> 
+<p align="left"><img src="./Gemini-AI-Alura/assets/gemini-icon.png" width="25"/> Gemini AI:</p> 
 
 |   Ação   | prompt |
 |---|---|
@@ -112,7 +110,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 
     O Hotel Monaco Seattle possui avaliações em sua maioria positivas, destacando-se a localização, limpeza, equipe e decoração. Alguns hóspedes reclamaram do preço do estacionamento, barulho em alguns quartos e     custo-benefício.
 
-<p align="left"><img src="./assets/ai-studio-icon.png" width="25"/> AI Studio:</p>
+<p align="left"><img src="./Gemini-AI-Alura/assets/ai-studio-icon.png" width="25"/> AI Studio:</p>
 
 |   Ação   | prompt |
 |---|---|
