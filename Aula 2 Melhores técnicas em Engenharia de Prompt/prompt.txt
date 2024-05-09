@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Núcleos vs Frequências: quanto muda a performance do seu processador?
+
+Hoje vamos fazer experimentos com processador. Quanto as altas frequências e a grande contagem de núcleos influenciam na performance deste processador em games e aplicações profissionais? Vamos solucionar essa dúvida testando todo tipo de configuração possível!Vamos pegar o poderoso AMD Ryzen 9 7950X, com 16 núcleos e 32 threads e frequências superando a barreira dos 5GHz, e ir brincando com sua operação pra ver o quanto isso impacta na performance, no consumo de energia e no aquecimento!Nossa bancada de testes inclui os seguintes componentes:    AMD Ryzen 9 7950X    2x16GB DDR5-5200 Kingston    Placa-mãe X670e MSI MEG    Liquid Cooling Cooler Master ML360 Flux    Nvidia GeForce RTX 4090 Founders Edition    Fonte Cooler Master v850Usamos o software do AMD Ryzen Master para realizar o desligamento de núcleos, alteração das frequências e também desabilitação do Simultaneous Multi Thread (SMT). A tensão do processador foi deixada na configuração automática.Nos testes de aquecimento e consumo usamos o benchmark do CineBENCH para estressar ao máximo o CPU. Para manter a regularidade nos testes, as fans do liquid cooling foram fixadas em 50% de rotação e a bomba em 100%. O nosso overclock a 5.5GHz resultou em crash do sistema no CineBENCH, por isso os valores zerados nesse patamar. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+O PC MAIS CARO QUE JÁ MONTAMOS! 3 jogando ao mesmo tempo!
+
+O que fazer com um processador com 128 threads? Como por essa galera toda pra trabalhar? Hoje vamos tentar dar serviço pra todos os 64 núcleos do AMD Ryzen Threadripper 7980X montando um sistema que tente tirar tudo que esse processador tem para oferecer. O único jeito é dando muita coisa pra fazer ao mesmo tempo!    REVIEW | AMD Threadripper 7980X – QUATRO Ryzen 9 7950X juntos por R$38 mil    QUATRO JOGOS PESADÕES em apenas UM PC: RTX 3090 segura tudo isso?Para isso, vamos usar o Unraid, um sistema operacional que permite virtualizar múltiplos sistemas operacionais em uma única máquina, e rodar três sistemas em paralelo. Para testar esse desempenho, vamos colocar essas três máquinas para rodar games ao mesmo tempo!Se o objetivo é fazer o Threadripper suar, ele precisa de uma placa de vídeo que empurre muitos FPS e force o processador a trazer novos quadros em pouco tempo. É por isso que sacamos nada menos que TRÊS RTX 4090, dedicando uma para cada máquina virtual. Será que dá pra jogar bem em um PC desses?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Guia de Placa de Vídeo 2024 - primeiro semestre 
+
+Neste artigo vamos atualizar nosso guia de recomendações das melhores placas de vídeo para jogar. Vamos ajudar a montar seu PC gamer com as melhores indicações que podemos trazer. Usamos de referência nossos testes de performance, gameplays e também os atuais preços do mercado. É sempre importante lembrar que os preços no Brasil variam bastante, então verifique se a realidade dos custos não se alterou muito em relação ao que vamos descrever nesse artigo, antes de fazer sua escolha.As principais novidades comparado ao nosso guia do segundo semestre de 2023 incluem a chegada de novos modelos intermediários da AMD, como as Radeon RX 7700 XT, 7800 XT e 7900 GRE e a introdução da linha GeForce RTX 40 Super, tornando o segmento intermediário alto mais diverso e com mais opções.  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cuidado na hora de comprar um processador AMD Ryzen!
+
+Os processadores da AMD estão bastante presentes na nossa cobertura de hardware no Adrena, e inclusive são muito recomendados. O Ryzen 7 7800X3D sendo uma recomendação constante para gamers entusiastas, o Ryzen 5 7600 para os intermediários e o Ryzen 5 5500 salvando o dia lá no PC Baratinho para jogar do Adrena.    NÚCLEOS vs FREQUÊNCIAS: quanto muda a performance    SÓ NO GRÁFICO INTEGRADO! Jogamos com o AMD Ryzen 5 8600G    Entenda o que é V-Cache 3D, grande novidade do processador AMD Ryzen 7 5800X3DMas a forma como a AMD constrói seu line-up de produtos, especialmente depois de um tempo, cria algumas armadilhas, e também a forma como comparamos recursos e especificações também podem fazer o consumidor fazer escolhas erradas.Hoje vamos explicar que armadilhas são essas, e como fugir delas! 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Monitores gamer da Alienware: impressões com o AW2523HF e AW2724DM!
+
+ A Alienware enviou dois modelos de monitores gamers que devem estar no seu radar se está de olho em um monitor para jogar. O AW2523HF e AW2724DM são dois produtos com as especificações que buscamos em excelentes telas para jogar, com configurações e ajustes para atender demandas específicas de diferentes perfis de jogadores. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Chefe da Xbox Game Studios afirma que empresa precisa de “jogos pequenos”
+
+ Um dia após anunciar o fechamento da Tango Gameworks, Arkane Austin e outros estúdios, Matt Booty, chefe do Xbox Game Studios, se reuniu com suas equipes para falar sobre o futuro da empresa. Segundo participantes, o executivo afirmou que seus talentos precisam desenvolver “jogos menores que nos deem prestígio e prêmios”.A declaração não repercutiu bem nas redes sociais, especialmente dado o contexto em que ela foi feita. Isso porque o jogo mais recente da Tango Gameworks, Hi-Fi RUSH, se encaixava exatamente nessa descrição e, segundo todas as declarações públicas da Microsoft, havia tido um desempenho muito bom.Enquanto a Microsoft nunca divulgou o número de vendas do jogo, ela confirmou que ele foi jogado por mais de 3 milhões de pessoas. Em abril do ano passado, Aaron Greenberg, chefe de marketing do Xbox, chegou a afirmar que relatos de que o título não vendia bem eram falsos e que todas as equipes da companhia estavam felizes com aquilo que a Tango fez. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nintendo diz que será mais demorado e complexo criar jogos no futuro
+
+ Durante reunião com acionistas, o presidente da Nintendo, Shuntaro Furukawa, disse que processos de criação de jogos no futuro serão mais demorados e mais sofisticados. Isso fará com que a Big N invista na expansão de seus departamentos de pesquisa e desenvolvimento.“No futuro, o desenvolvimento de jogos será, inevitavelmente, mais longos, mais complexos e mais sofisticados”, disse o executivo. Não fica claro, no entanto, se sua fala é direcionada já para o sucessor do Switch, ou se ele está falando sobre um futuro mais distante. 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jogos de PS4 e PS5 mais baixados em abril na PS Store brasileira
+
+A lista de jogos mais baixados na PS Store durante o mês de abril de 2024 foi revelada pela PlayStation Brasil em seu blog oficial e separamos os principais nomes, com Resident Evil 4 liderando entre os mais baixados no PS5 e Need For Speed Heat como mais baixado no PS4.Ao todo, foram divulgadas as listas de jogos mais baixados para PlayStation 4 e PlayStation 5, além das categorias de jogos para PlayStation VR, PlayStation VR2 e dos games que são gratuitos para jogar.Stellar Blade e EA Sports FC 24 ficaram respectivamente em segundo e terceiro lugar entre os mais baixados no PlayStation 5. Enquanto no PS4, o segundo mais baixado foi Fallout 4, com Red Dead Redemption 2 na terceira colocação.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GPUs NVIDIA "Rubin" entrarão em produção em 2025
+
+As GPUs NVIDIA “Blackwell” nem foram lançadas oficialmente no mercado e analistas já estimam que a corporação esteja trabalhando arduamente na próxima arquitetura. Com o nome de “Rubin” – homenagem à Vera Rubin – diversos fatores apontam que sua produção será iniciada no último trimestre de 2025.A afirmação é do analista da TF International Securities, Mich-Chi Kuo, que também revela que a primeira GPU que produzirão será a R100 (que não deve ser confundida com a placa de vídeo de mesmo nome desenvolvida pela ATI em 2002). 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nintendo Switch vai perder suporte ao X/Twitter em breve
+
+ A Nintendo anunciou na última quarta-feira (8) que vai seguir o mesmo caminho do PlayStation e do Xbox e vai encerrar o suporte do Switch ao X/Twitter. Segundo a companhia, não será mais possível compartilhar imagens ou vídeos capturados no console com a rede social a partir do dia 10 de junho deste ano.Da mesma forma, os jogadores do console vão perder a capacidade de buscar por amigos baseados em seus perfis conectados. Ela também alerta que, enquanto as capacidades do tipo serão mantidas no que diz respeito ao Facebook, há chances futuras de que elas também sejam descontinuadas.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Gere um titulo para a próxima noticia.
+
+A Bandai Namco e a Amber Studio estão lançando hoje o jogo PAC-MAN Mega Tunnel Battle: Chomp Champs para PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Nintendo Switch e PC via Steam.
+ O jogo no PC chega custando R$ 69,00 na Nuuvem e R$ 77,50 na Steam, 
+enquanto nos consoles sai por R$ 74,95 no Xbox e R$ 104,90 no 
+PlayStation e Switch.
+Nesta competição online de comilança o jogador terá vários labirintos
+ interconectados usando Pílulas do Poder e vários Itens de Poder para 
+engolir os fantasmas e jogadores PAC-MAN adversários! Seja o último PAC 
+vivo da partida para ser o Campeão Come-Come neste Battle Royale de 64 
+jogadores!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

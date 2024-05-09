@@ -13,13 +13,13 @@
 ## Aula 1 Mergulhando no Gemini, a IA do Google
 
 ### Assuntos abordados:
-- Oque é IA?
-- Diferenças entre IA Preditiva x IA Generativa
-- Oque é LLM?
-- Análise de sentimento
-- Leitura da foto de uma carta com o Gemini
-- Diferença entre o Gemini e AI Studio
-- Descrição de imagem com o Google AI Studio
+- Oque é IA?;
+- Diferenças entre IA Preditiva x IA Generativa;
+- Oque é LLM?;
+- Análise de sentimento;
+- Leitura da foto de uma carta com o Gemini;
+- Diferença entre o Gemini e AI Studio;
+- Descrição de imagem com o Google AI Studio.
 
 Desafios da aula desta aula:
 
