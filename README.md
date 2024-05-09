@@ -38,9 +38,7 @@ Desafios da aula desta aula:
 
      - Use o Gemini ou o Google AI Studio para algo do seu dia a dia no trabalho, visando a automação de alguns processos já realizados por você;
 
-     - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site,
-
-Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini e em carreira, busquei primeiro identificar quais as diferenças e funcionalidades a versão paga do Geminini poderiam agregar, e como ela poderia me ajudar em minha jornada para se tornar um Especialista em Qualidade de Software.
+     - Pegue o seu histórico do Google Chrome por meio dessa extensão e peça para o Gemini tirar conclusões de como você tem usado o seu tempo, criando um resumo do que você mais acessa, quantidade de uso e tipo de site.
 
 ## 📚 Materiais
 
