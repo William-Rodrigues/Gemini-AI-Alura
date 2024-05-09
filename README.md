@@ -13,7 +13,7 @@
 
 ## 📖 Página de inscrição:
 
-- <a href="https://www.alura.com.br/imersao-ia-google-gemini"> 📕 Clique aqui para se inscrever</a>
+<a href="https://www.alura.com.br/imersao-ia-google-gemini"> 📕 Clique aqui para se inscrever</a>
 
 ## 💻 Tecnologias e ferramentas utilizadas no projeto:
 
@@ -23,9 +23,9 @@
 
 ## Aula 1 Mergulhando no Gemini, a IA do Google:
 
-- 🚨 Clique [aqui](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%201%20Mergulhando%20no%20Gemini%2C%20a%20IA%20do%20Google)👈🏾 para visualizar o conteúdo.
+🚨 [Clique aqui para visualizar o resultado da aula 1.](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%201%20Mergulhando%20no%20Gemini%2C%20a%20IA%20do%20Google) 
 
-Assuntos abordados:
+### Assuntos abordados:
 - Oque é IA?
 - Diferenças entre IA Preditiva x IA Generativa
 - Oque é LLM?
