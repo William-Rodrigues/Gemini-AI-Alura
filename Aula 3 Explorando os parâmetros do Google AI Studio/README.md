@@ -68,7 +68,7 @@ Desafios da aula desta aula:
 
 ## ✨ Features
 
-- Conteúdo geradas via AI Studio
+- Conteúdo gerado via AI Studio
 
 ## 📚 Materiais
 

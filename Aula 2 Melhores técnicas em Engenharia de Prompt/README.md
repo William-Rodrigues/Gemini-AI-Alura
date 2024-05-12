@@ -88,7 +88,7 @@ Título Original: PAC-MAN Mega Tunnel Battle: Chomp Champs é lançado para cons
 ## ✨ Features
 
 - Conteúdo gerado via Gemini AI
-- Conteúdo geradas via AI Studio
+- Conteúdo gerado via AI Studio
 
 ## 📚 Materiais
 

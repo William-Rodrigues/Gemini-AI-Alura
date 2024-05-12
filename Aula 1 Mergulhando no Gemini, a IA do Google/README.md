@@ -173,7 +173,7 @@ Sobre o tema do trabalho, foquei em obter detalhes sobre a ferramenta do Gemini 
 ## ✨ Features
 
 - Conteúdo gerado via Gemini AI
-- Conteúdo geradas via AI Studio
+- Conteúdo gerado via AI Studio
 
 ## 📚 Materiais
 

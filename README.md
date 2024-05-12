@@ -57,7 +57,7 @@ Desafios da aula desta aula:
 
 ## Aula 3 Explorando os parâmetros do Google AI Studio:
 
-🚨 [Clique aqui para visualizar o resultado da aula 3.](https:) 
+🚨 [Clique aqui para visualizar o resultado da aula 3.](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%203%20Explorando%20os%20par%C3%A2metros%20do%20Google%20AI%20Studio) 
 
 ### Assuntos abordados:
 
@@ -75,6 +75,8 @@ Desafios da aula desta aula:
 ## 📚 Materiais
 
 - Imagem da campanha e ícones em `assets`
+- O conteúdo do desafio 3 em `Aula 3 Explorando os parâmetros do Google AI Studio/aula-3-main.py`
+- Foto do pato em `Aula 3 Explorando os parâmetros do Google AI Studio/duck-funny.jpg`
 
 ## 🧙🏾‍♂️ Eterno aprendiz
 
