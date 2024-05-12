@@ -17,9 +17,7 @@
 
 ## 💻 Tecnologias e ferramentas utilizadas no projeto:
 
-- [Gemini](https://gemini.google.com/app) 
 - [AI Studio](https://aistudio.google.com)
-- [Kaggle](https://www.kaggle.com/)
 - [Google Colab](https://colab.research.google.com/)
 
 ## Aula 1: Mergulhando no Gemini, a IA do Google
@@ -74,7 +72,7 @@ Desafios da aula desta aula:
 
 ## Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
 
-🚨 [Clique aqui para visualizar o resultado da aula 4.](http:) 
+🚨 [Clique aqui para visualizar o resultado da aula 4.](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%204%20Criando%20seu%20pr%C3%B3prio%20chatbot%20com%20a%20Gemini%20API%20no%20Google%20Colab) 
 
 ### Assuntos abordados:
 
@@ -89,6 +87,8 @@ Desafios da aula desta aula:
 - Imagem da campanha e ícones em `assets`
 - O conteúdo do desafio 3 em `Aula 3 Explorando os parâmetros do Google AI Studio/aula-3-main.py`
 - Foto do pato em `Aula 3 Explorando os parâmetros do Google AI Studio/duck-funny.jpg`
+- O conteúdo desta aula em `Aula 4 Criando seu próprio chatbot com a Gemini API no Google Colab/Aula_4.ipynb`
+
 
 ## 🧙🏾‍♂️ Eterno aprendiz
 
