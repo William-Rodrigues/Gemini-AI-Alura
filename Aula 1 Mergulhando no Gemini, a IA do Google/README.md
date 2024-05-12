@@ -10,7 +10,7 @@
 🚨 [Clique aqui  para ser redirecionado.](https://github.com/William-Rodrigues/Gemini-AI-Alura)
  
 
-## Aula 1 Mergulhando no Gemini, a IA do Google
+## Aula 1: Mergulhando no Gemini, a IA do Google
 
 ### Assuntos abordados:
 - Oque é IA?;

@@ -10,7 +10,7 @@
 🚨 [Clique aqui  para ser redirecionado.](https://github.com/William-Rodrigues/Gemini-AI-Alura)
  
 
-## Aula 3 Explorando os parâmetros do Google AI Studio:
+## Aula 3: Explorando os parâmetros do Google AI Studio
 
 ### Assuntos abordados:
 

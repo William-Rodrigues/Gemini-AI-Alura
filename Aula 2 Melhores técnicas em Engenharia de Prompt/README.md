@@ -10,7 +10,7 @@
 🚨 [Clique aqui  para ser redirecionado.](https://github.com/William-Rodrigues/Gemini-AI-Alura)
  
 
-## Aula 2 Melhores técnicas em Engenharia de Prompt:
+## Aula 2: Melhores técnicas em Engenharia de Prompt
 
 ### Assuntos abordados:
 - Melhores técnicas de como realizar um prompt;
