@@ -29,7 +29,7 @@ Desafios da aula desta aula:
 ## 📚 Materiais
 
 - Imagem da campanha e ícones em `assets`
-- O conteúdo desta aula em `Aula 4 Criando seu próprio chatbot com a Gemini API no Google Colab/Aula_4.ipynb`
+- O conteúdo desta aula em `Aula 5 Criando um sistema para busca em documentos usando embeddings e a Gemini API\Aula_5.py`
 
 ## 🧙🏾‍♂️ Eterno aprendiz
 

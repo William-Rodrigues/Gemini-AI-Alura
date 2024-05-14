@@ -84,7 +84,7 @@ Desafios da aula desta aula:
 
 ## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
 
-🚨 [Clique aqui para visualizar o resultado da aula 5.](https:) 
+🚨 [Clique aqui para visualizar o resultado da aula 5.](https://github.com/William-Rodrigues/Gemini-AI-Alura/tree/main/Aula%205%20Criando%20um%20sistema%20para%20busca%20em%20documentos%20usando%20embeddings%20e%20a%20Gemini%20API) 
 
 ### Assuntos abordados:
 
