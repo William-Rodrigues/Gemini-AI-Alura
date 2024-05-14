@@ -82,13 +82,25 @@ Desafios da aula desta aula:
 
      - Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição.
 
+## Aula 5: Criando um sistema para busca em documentos usando embeddings e a Gemini API
+
+🚨 [Clique aqui para visualizar o resultado da aula 5.](https:) 
+
+### Assuntos abordados:
+
+- Fazer uma LLM (Large Language Model) para acessar documentos;
+- Criar um embedding pelo Google Colab.
+
+Desafios da aula desta aula:
+
+     - Desenvolva um Projeto Relacionado à Aula 4 e/ou Aula 5 da Imersão IA 2ª Edição.
+
 ## 📚 Materiais
 
 - Imagem da campanha e ícones em `assets`
 - O conteúdo do desafio 3 em `Aula 3 Explorando os parâmetros do Google AI Studio/aula-3-main.py`
 - Foto do pato em `Aula 3 Explorando os parâmetros do Google AI Studio/duck-funny.jpg`
 - O conteúdo desta aula em `Aula 4 Criando seu próprio chatbot com a Gemini API no Google Colab/Aula_4.ipynb`
-
 
 ## 🧙🏾‍♂️ Eterno aprendiz
 
